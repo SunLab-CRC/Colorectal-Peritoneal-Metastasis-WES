@@ -1,0 +1,10 @@
+data/
+results/
+*.maf
+*.vcf
+*.vcf.gz
+*.bam
+*.bai
+*.pdf
+*.log
+.DS_Store
